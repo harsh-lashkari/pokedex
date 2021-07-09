@@ -1,0 +1,8 @@
+include: package:lint/analysis_options.yaml
+
+analyzer:
+  errors:
+    sort_unnamed_constructors_first: ignore
+    argument_type_not_assignable: ignore
+    type_annotate_public_apis: ignore
+    sort_pub_dependencies: ignore

@@ -1,0 +1,26 @@
+{
+    "cSpell.words": [
+        "Plex",
+        "appbar",
+        "bulbasaur",
+        "charizard",
+        "fullscreen",
+        "gifs",
+        "growlithe",
+        "nodoc",
+        "pokeball",
+        "pokedex",
+        "unfocus"
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.freezed.dart": true,
+        "**/*.g.dart": true,
+        "**/*.freezed": true
+    },
+    "explorerExclude.backup": null
+}
